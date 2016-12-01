@@ -32,13 +32,13 @@ BUILD		:=	build
 SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
-#ROMFS		:=	romfs
+ROMFS		:=	romfs
 
-VERSION	:=	v1.2
+VERSION	:=	v1.3
 
 APP_TITLE	:=	hblauncher_loader $(VERSION)
 APP_DESCRIPTION	:=	This boots the *hax payload.
-APP_AUTHOR	:=	yellows8
+APP_AUTHOR	:=	yellows8 and Hikiruka
 
 DEFINES	:=	
 
